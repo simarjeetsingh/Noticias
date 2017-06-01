@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+  <channel>
+      <title>Noticias mundiales en Mundo noticías</title>
+      <link>https://www.mundonoticias.com</link>
+      <description>Página web sobre las noticías en general de todo el mundo.</description>
+      <image>
+        <url>https://rawgit.com/simarjeetsingh/Noticias/master/img/logo.png</url>
+        <title>www.mundonoticias.com</title>
+        <link>https://rawgit.com/simarjeetsingh/Noticias/master/index.html</link>
+      </image>
+      <pubDate>Fri, 02 Jun 2017 15:45:23 CEST</pubDate>
+      <item>
+        <title>Los que luchan contra el cambio climático</title>
+        <link>https://rawgit.com/simarjeetsingh/Noticias/master/news1.html</link>
+        <description>La Cumbre de París (2016) se cerró con un tratado histórico contra el cambio climático.
+                      Los 195 países firmantes, casi todos los del mundo, adoptaron una alianza para frenar el 
+                      calentamiento global originado por el ser humano. Aquellos que lo suscribieron deben reducir 
+                      las emisiones de gases de efecto invernadero.La parte crucial para el futuro del planeta. Paralelamente
+        </description>
+        <pubDate>Sun, 28 May 2017 09:00:00 CEST</pubDate>
+      </item>
+      <item>
+        <title>Sale de nuevo a la venta el Nokia 3310</title>
+        <link>https://rawgit.com/simarjeetsingh/Noticias/master/news2.html</link>
+        <description>Este miércoles sale a la venta la nueva versión del Nokia 3310, el icónico modelo salido a principios del año 2000, 
+                    conocido por muchos como 'el indestructible' debido a su alta resistencia a los golpes y caídas en comparación con 
+                    modelos más actuales. A diferencia del original, este nuevo modelo cuenta con una forma más redondeada y una pantalla
+                    de 2,4 pulgadas curvada y polarizada. Además, es más fino y ligero. Su precio es</description>
+        <pubDate>Sun, 27 May 2017 09:00:00 CEST</pubDate>
+      </item>
+      <item>
+        <title>Zuckerberg se gradúa en Harvard 12 años más tarde</title>
+        <link>https://rawgit.com/simarjeetsingh/Noticias/master/index.html</link>
+        <description>Dejó la universidad para centrarse en su empresa. Mark Zuckerberg decidió abandonar las clases de Programación en el otoño de 2005 
+                    para mudarse a Palo Alto e impulsar el crecimiento de Facebook. 12 años después, la prometedora red social que fundó en una residencia 
+                    de la Universidad de Harvard vale más de 400.000 millones de dólares (unos 376.000 millones
+        </description>
+        <pubDate>Sun, 26 May 2017 09:00:00 CEST</pubDate>
+      </item>
+  </channel>
+
+</rss>

@@ -1,0 +1,57 @@
+#a{color:#fff}
+body{background-color: #EEEEEE;		font-family:'Roboto', sans-serif;
+		font-size:17px !important}
+.jumbotron{background-color:#224055 }
+
+.titulo{float: right;	font-family:'Roboto', sans-serif;
+		font-size:17px !important}
+
+.imagen01{ 	font-size:14px}
+
+.imagen{ width: 90%}
+
+.noticias{ margin-right: 0px;   background-color: #EEEEEE;   padding-right: 0px }
+
+.main{margin-bottom: 10px;  border-radius: 5px;  }
+
+hr{border-top: 1px solid lightgray;	}
+
+h5{float: right}
+
+
+#publi {  width: 300px;  float: right;  margin:0px;  padding: 0px;}
+
+#publiM {  	height: 90px;	z-index: 5;	margin:0px;  padding: 0px;	float: left;
+	}
+
+.navbar{     background-color: #224055;    font-size:20px !important;}
+
+.footer{padding:50px 0 50px;margin-top:100px;color:#99979c;text-align:left;
+    background-color:#2a2730}
+.footer-links{padding-left:0;margin-bottom:20px}
+.footer-links li+li{margin-left:15px}
+.footer-links li{display:inline-block}
+#footer {	background-color: #224055;	color: #ffffff;
+	font-size: 0.9em;	padding: 10px 0 30px;	}
+#footer .wrapper {		background: none;	}
+#footer a {	color: #ffffff;	}
+#footer .l {		text-align: center}
+
+@media only screen and (max-width: 991px) {
+  #publi{		 width: 165px            }
+}
+@media only screen and (max-width: 767px) {
+  h1{font-size: 28px}
+	.imagen01{  font-size:14px;  padding: 0px;margin-top: 0px}	
+	.imagen{margin-bottom: 5px;  margin-left: 15px; width: 90% }
+    .fecha{margin-left: 15px}  
+    .imagen01 hr{margin: 10px} 
+	
+}
+@media only screen and (min-width: 767px) {
+  .noticia01{
+	border: 1px solid gray;
+    border-radius: 5px;
+    }   
+   
+}

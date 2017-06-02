@@ -1,5 +1,5 @@
 # Página web de noticias
-###Proyeco final Lenguajes de marcas: Página web de notícias auto rellenableble con el scroll
+**Proyeco final Lenguajes de marcas: Página web de notícias auto rellenableble con el scroll**
 
 Especificaciones del cliente:
 * La maquetación (layer design) debe dejar 300 px de espacio a la derecha de la pantalla para publicidad si la pantalla es suficientemente ancho. Todo otro diseño es libre.
@@ -15,10 +15,10 @@ Especificaciones del cliente:
 * El index.html incluye un enlace a rss.xml, para el *Rss feed.*
 * Las tres pagínas contienen etiquetas *OpenGraph* para compartir la notícia.
 
-###Versión Escritorio:
+**Versión Escritorio:**
 
 ![Versión escritorio](https://github.com/simarjeetsingh/Noticias/blob/master/img/Escritorio.png)
 
-###Versión Móvil
+**Versión Móvil**
 
-!Versión Móvil](https://github.com/simarjeetsingh/Noticias/blob/master/img/movil.png)
+![Versión Móvil](https://github.com/simarjeetsingh/Noticias/blob/master/img/movil.png)

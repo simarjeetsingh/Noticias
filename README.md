@@ -17,8 +17,8 @@ Especificaciones del cliente:
 
 ###Versión Escritorio:
 
-![Versión escritorio](/img/escritorio.png)
+![Versión escritorio](https://github.com/simarjeetsingh/Noticias/blob/master/img/Escritorio.png)
 
-####ersión Móvil
+###Versión Móvil
 
-![Alt text](/img/movil.png)
+!Versión Móvil](https://github.com/simarjeetsingh/Noticias/blob/master/img/movil.png)
